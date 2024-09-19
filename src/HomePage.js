@@ -10,7 +10,7 @@ const HomePage = () => {
 We believe that unless members of the civil society are involved proactively in the process of development, sustainable change will not happen. Following this model of Civic Driven Change, Smile Foundation sensitizes and engages the civil society, making it an active partner in all its welfare initiatives.
 
             </p>
-            <Footer />
+            <Footer /> //home
         </div>
     );
 };
